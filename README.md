@@ -1,1 +1,1 @@
-# qamra-resort-websit
+# qamra-resort-website
